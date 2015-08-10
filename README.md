@@ -12,6 +12,9 @@ A working (but simple) Chat Client
 The Server accepts connections from clients, who provide a nickname, the server
 then relays all messages sent from clients to other members of the chatroom.
 
+The following Tutorial was used as a base for the program:
+http://www.binarytides.com/code-chat-application-server-client-sockets-python/
+
 Extensions beyond the base tutorial code:
 - Fix problems associated with clients leaving and rejoining
 - Add a nickname system of identification
